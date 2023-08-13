@@ -31,4 +31,4 @@ Foi realizado a criação de um DashBoard no Power BI para análise dos dados. S
 1. Clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/huguds/steam-game-sales.git
+git clone https://github.com/huguds/schools_data.git
