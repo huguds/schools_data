@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-Este projeto tem como objetivo extrair informações da base de dados das Escolas dos EUA listada no site [EDGE Open Data ]([https://steamdb.info/sales/](https://data-nces.opendata.arcgis.com/search?groupIds=6fa82692c79042a8b0e6dd222001a41b).
+Este projeto tem como objetivo extrair informações da base de dados das Escolas dos EUA listada no site [EDGE Open Data ](https://data-nces.opendata.arcgis.com/search?groupIds=6fa82692c79042a8b0e6dd222001a41b).
 
 ![image](https://github.com/huguds/steam-game-sales/assets/79457377/04222451-f9a9-4762-a845-032d590536a6)
 
