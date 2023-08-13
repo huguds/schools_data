@@ -10,7 +10,7 @@ Os dados extraídos foram armazenados no Google BigQuery para análise posterior
 
 Foi realizado a criação de um DashBoard no Power BI para análise dos dados. Segue a imagem abaixo:
 
-![image](https://github.com/huguds/schools_data/assets/79457377/f8d620de-6a3e-408d-93dc-5c07f2f8fcc8)
+![image](https://github.com/huguds/schools_data/assets/79457377/2860498a-7fdf-4f8a-ae94-396443a6fdbe)
 
 ## Tecnologias Utilizadas
 
